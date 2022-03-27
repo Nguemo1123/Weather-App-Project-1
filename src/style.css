@@ -1,0 +1,46 @@
+h1,
+h2 {
+  text-align: center;
+  top: 20px;
+  padding: 20px;
+}
+h4 {
+  padding: 20px;
+  margin: 20px 10px 20px 10px;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+img {
+  position: fixed;
+  min-height: 50%;
+  opacity: 0.5;
+  width: 100%;
+  margin: 0 auto;
+  left: 0;
+}
+button {
+  border-radius: 4px;
+}
+#temperature {
+  text-align: center;
+  font-size: 20px;
+}
+.city-form {
+  position: fixed;
+  right: 0;
+  top: 10px;
+  background: transparent;
+}
+.navigate {
+  position: fixed;
+  margin-top: 0;
+  padding-top: 0;
+  text-align: left;
+}
+h2.dateAndTime {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+}
